@@ -1,0 +1,18 @@
+body{
+  background: #000;
+  text-align: center;
+}
+
+.letter {
+  color: #000;
+  font-size: 1.4em;
+}
+.letter1 {
+  color: #500;
+}
+.letter2 {
+  color: #fff;
+}
+#flyStr{
+  text-align: center;
+}
